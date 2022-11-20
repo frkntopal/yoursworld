@@ -1,16 +1,8 @@
-# yours_world
+This is a project that has not been completed yet and I am still working on it,
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1668949914](https://user-images.githubusercontent.com/100241189/202905044-d7d74ad5-e2a9-4bf5-b527-da580a381e99.png)
+![Screenshot_1668949922](https://user-images.githubusercontent.com/100241189/202905092-f6e7a2de-d401-4f54-917d-f4c51de5b25b.png)
+![Screenshot_1668949928](https://user-images.githubusercontent.com/100241189/202905094-201ab046-831d-43fd-89ca-6a79c442c2c1.png)
